@@ -2,7 +2,7 @@
 
 This demo use Camera1 api.
 
-![](./screenshot.jpeg)
+![](./screenshot.png)
 
 
 
